@@ -16,7 +16,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Swissguard - CR7",
   description:
-    "Swissguard is a frontend developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
 };
 
 export default function CrPage() {

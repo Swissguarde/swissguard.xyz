@@ -26,7 +26,7 @@ export default function MainContent() {
         </div>
 
         <p className="dark:text-muted-foreground">
-          FKA Swissguard, I’ve spent the past 3+ years turning ideas into fast,
+          FKA Swissguard, I’ve spent the past 3 years turning ideas into fast,
           responsive websites — helping startups, businesses, and creatives
           build their online presence with clean code.
         </p>

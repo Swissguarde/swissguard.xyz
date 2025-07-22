@@ -1,4 +1,5 @@
 import ProjectDetail from "@/components/project-detail";
+import { Metadata } from "next";
 import {
   SiGreensock,
   SiNextdotjs,
@@ -6,13 +7,11 @@ import {
   SiTailwindcss,
   SiTypescript,
 } from "react-icons/si";
-import { Metadata } from "next";
-import { TbBrandFramerMotion } from "react-icons/tb";
 
 export const metadata: Metadata = {
   title: "Swissguard - Prism AI",
   description:
-    "Swissguard is a frontend developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
 };
 
 export default function PrismAiPage() {

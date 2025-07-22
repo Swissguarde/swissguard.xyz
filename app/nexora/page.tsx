@@ -7,7 +7,7 @@ import { TbBrandFramerMotion } from "react-icons/tb";
 export const metadata: Metadata = {
   title: "Swissguard - Nexora",
   description:
-    "Swissguard is a frontend developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
 };
 
 export default function NexoraPage() {
