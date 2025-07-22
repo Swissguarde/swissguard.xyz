@@ -12,7 +12,7 @@ import { TbBrandFramerMotion } from "react-icons/tb";
 export const metadata: Metadata = {
   title: "Swissguard - Prism AI",
   description:
-    "Swissguard is a software developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a frontend developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
 };
 
 export default function PrismAiPage() {

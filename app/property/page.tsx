@@ -12,7 +12,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Swissguard - Property",
   description:
-    "Swissguard is a software developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a frontend developer with 4+ years of experience building sleek, scalable websites for startups, businesses and individuals.",
 };
 
 export default function PropertyPage() {
