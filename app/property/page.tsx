@@ -23,8 +23,8 @@ export default function PropertyPage() {
         description="Property is a full-featured property listing platform designed to simplify how users list, rent, and discover properties. Built with a focus on performance, scalability, and user experience, the platform offers a clean, intuitive interface for property owners and potential buyers or renters."
         logo="/images/property/logo.png"
         cover="/images/property/property.png"
-        link="https://nexora-livid.vercel.app"
-        repo="https://github.com/Swissguarde/nexora"
+        link="https://property-swiss.vercel.app"
+        repo="https://github.com/Swissguarde/property"
         tech={[
           { title: "Next.js", icon: <SiNextdotjs /> },
           { title: "MongoDB", icon: <SiMongodb /> },
