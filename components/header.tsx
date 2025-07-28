@@ -46,7 +46,12 @@ export default function Header() {
             </Link>
           </DropdownMenuItem>
           <DropdownMenuItem>
-            <Link href="/" className="w-full py-2">
+            <Link
+              href="https://docs.google.com/document/d/1cbLKR-DIoql3EwkvqGXHPq0S0BwOpckg2aJE3N9xNOw/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full py-2"
+            >
               My Resume
             </Link>
           </DropdownMenuItem>
