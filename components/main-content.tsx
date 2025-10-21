@@ -100,6 +100,13 @@ const featuredProjects = [
     link: "/property",
   },
   {
+    title: "Slope Deflection Calculator",
+    description:
+      "A structural analysis tool that performs bending moment and shear force calculations for beams.",
+    image: "/images/sdc/slide-1.png",
+    link: "/sdc",
+  },
+  {
     title: "Blockforge",
     description:
       "A modern blockchain website with a dark, premium design, built using Astro.js.",
