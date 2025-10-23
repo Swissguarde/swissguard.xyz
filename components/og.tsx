@@ -24,7 +24,7 @@ export default function Og() {
           <div className="flex items-center justify-center gap-3">
             <div className="h-px w-16 bg-green-400"></div>
             <p className="font-mono text-2xl tracking-wider text-green-400">
-              Frontend Developer
+              Software Developer
             </p>
             <div className="h-px w-16 bg-green-400"></div>
           </div>

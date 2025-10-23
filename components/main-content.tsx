@@ -10,7 +10,7 @@ export default function MainContent() {
           <div className="flex flex-col gap-3">
             <h2 className="text-2xl font-bold">Ayomide Kolade</h2>
             <p className="font-mono text-sm tracking-wider text-green-400">
-              Frontend Developer
+              Software Developer
             </p>
           </div>
           <div>

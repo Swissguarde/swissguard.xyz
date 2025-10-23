@@ -18,9 +18,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Swissguard - Frontend Developer",
+  title: "Swissguard - Software Developer",
   description:
-    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a software developer with 3 years of experience building software and web applications for startups, businesses, and individuals.",
 };
 
 export default function RootLayout({
