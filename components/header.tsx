@@ -41,8 +41,18 @@ export default function Header() {
             <ModeToggle />
           </DropdownMenuItem>
           <DropdownMenuItem>
+            <Link href="/" className="w-full py-2">
+              Home
+            </Link>
+          </DropdownMenuItem>
+          <DropdownMenuItem>
             <Link href="/about" className="w-full py-2">
               About Me
+            </Link>
+          </DropdownMenuItem>
+          <DropdownMenuItem>
+            <Link href="/blog" className="w-full py-2">
+              Blog
             </Link>
           </DropdownMenuItem>
           <DropdownMenuItem>

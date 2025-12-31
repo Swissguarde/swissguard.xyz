@@ -47,6 +47,9 @@ export default function SidebarLhs() {
           <Link href="/about" className="nav-link">
             About Me
           </Link>
+          <Link href="/blog" className="nav-link">
+            Blog
+          </Link>
           <Link
             href="https://docs.google.com/document/d/1cbLKR-DIoql3EwkvqGXHPq0S0BwOpckg2aJE3N9xNOw/edit?usp=sharing"
             className="nav-link"
