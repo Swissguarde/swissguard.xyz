@@ -81,7 +81,7 @@ export default function Header() {
       <Avatar className="h-10 w-10 transition-all duration-300 hover:scale-105">
         <AvatarImage
           src="/images/swiss.jpg"
-          className="cursor-pointer object-cover"
+          className="cursor-pointer object-cover grayscale"
         />
         <AvatarFallback>AK</AvatarFallback>
       </Avatar>

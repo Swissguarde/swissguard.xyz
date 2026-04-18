@@ -5,9 +5,9 @@ import { Metadata } from "next";
 import { TbBrandFramerMotion } from "react-icons/tb";
 
 export const metadata: Metadata = {
-  title: "Swissguard - Nexora",
+  title: "Nexora – AI Business Website",
   description:
-    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a developer building really good digital experiences from nothing.",
 };
 
 export default function NexoraPage() {

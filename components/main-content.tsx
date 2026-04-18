@@ -8,7 +8,7 @@ export default function MainContent() {
       <div className="flex flex-col gap-8 border-b p-4 pb-8">
         <div className="flex items-center justify-between">
           <div className="flex flex-col gap-3">
-            <h2 className="text-2xl font-bold">Ayomide Kolade</h2>
+            <h2 className="text-2xl font-bold">Swissguard</h2>
             <p className="font-mono text-sm tracking-wider text-green-400">
               Software Developer
             </p>
@@ -78,6 +78,7 @@ export default function MainContent() {
 
 const carouselData = [
   { image: "/images/fizzi/fizzi.png" },
+  { image: "/images/iefw/cover.png" },
   { image: "/images/nexora/nexora.png" },
   { image: "/images/heritage.png" },
   { image: "/images/prism/prism.png" },
@@ -85,6 +86,13 @@ const carouselData = [
 ];
 
 const featuredProjects = [
+  {
+    title: "Italy Eco Fashion Week",
+    description:
+      "A digital platform for IEFW, showcasing events & brands, alongside a custom-built admin system.",
+    image: "/images/iefw/cover.png",
+    link: "/iefw",
+  },
   {
     title: "Fizzi",
     description:

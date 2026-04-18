@@ -10,9 +10,9 @@ import {
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Swissguard - Property",
+  title: "Property – Property Listing Platform",
   description:
-    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a developer building really good digital experiences from nothing.",
 };
 
 export default function PropertyPage() {

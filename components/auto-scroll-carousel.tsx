@@ -39,11 +39,11 @@ export default function AutoScrollCarousel({
       <div className="h-full overflow-hidden" ref={emblaRef}>
         <div className="flex h-full">
           {carouselData.map((slide, i) => (
-            <div key={i} className="h-full w-full flex-none px-4">
+            <div key={i} className="h-full w-[80%] flex-none px-4 md:w-[70%]">
               <img
                 src={slide.image}
                 alt="carousel-image"
-                className="h-full w-full rounded-xl object-cover"
+                className="h-full w-full rounded-xl object-cover object-center"
               />
             </div>
           ))}

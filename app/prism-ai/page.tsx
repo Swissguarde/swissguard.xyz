@@ -9,9 +9,9 @@ import {
 } from "react-icons/si";
 
 export const metadata: Metadata = {
-  title: "Swissguard - Prism AI",
+  title: "Prism AI – Dynamic AI Platform Website",
   description:
-    "Swissguard is a frontend developer with 3 years of experience building sleek, scalable websites for startups, businesses and individuals.",
+    "Swissguard is a developer building really good digital experiences from nothing.",
 };
 
 export default function PrismAiPage() {

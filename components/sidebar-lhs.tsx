@@ -12,7 +12,7 @@ export default function SidebarLhs() {
           <Avatar className="h-20 w-20 transition-all duration-300 hover:scale-105">
             <AvatarImage
               src="/images/swiss.jpg"
-              className="cursor-pointer object-cover"
+              className="cursor-pointer object-cover grayscale"
             />
             <AvatarFallback>AK</AvatarFallback>
           </Avatar>
